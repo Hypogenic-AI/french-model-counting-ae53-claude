@@ -1,0 +1,12 @@
+Resource finding phase completed successfully.
+Timestamp: $(date -Iseconds)
+Papers downloaded: 24
+Datasets downloaded: 3 (french_numbers_0_999.jsonl, comparison_pairs.jsonl, counting_sequences.jsonl)
+Repositories cloned: 3 (multilingual-num-probe, numeracy-probing, wallace-numeracy)
+
+Key findings:
+- Only one paper (Johnson et al. 2020) directly studies French number understanding in transformers
+- French consistently performs worst among tested languages (EN, FR, DK, JA) on number probing tasks
+- Modern sinusoidal/circular probing methods have not been applied to French number words
+- The vigesimal system (70-99) creates unique challenges for LLM number representation
+- Generated custom dataset with vigesimal category annotations for experimentation

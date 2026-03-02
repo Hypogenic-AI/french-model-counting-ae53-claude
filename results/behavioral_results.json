@@ -1,0 +1,4959 @@
+{
+  "model": "gpt-4.1",
+  "seed": 42,
+  "conversion": [
+    {
+      "number": 192,
+      "french": "cent quatre-vingt-douze",
+      "category": "hundreds",
+      "response": "192",
+      "predicted": 192,
+      "correct": true
+    },
+    {
+      "number": 153,
+      "french": "cent cinquante-trois",
+      "category": "hundreds",
+      "response": "153",
+      "predicted": 153,
+      "correct": true
+    },
+    {
+      "number": 730,
+      "french": "sept cent trente",
+      "category": "hundreds",
+      "response": "730",
+      "predicted": 730,
+      "correct": true
+    },
+    {
+      "number": 85,
+      "french": "quatre-vingt-cinq",
+      "category": "vigesimal_80s",
+      "response": "85",
+      "predicted": 85,
+      "correct": true
+    },
+    {
+      "number": 703,
+      "french": "sept cent trois",
+      "category": "hundreds",
+      "response": "703",
+      "predicted": 703,
+      "correct": true
+    },
+    {
+      "number": 853,
+      "french": "huit cent cinquante-trois",
+      "category": "hundreds",
+      "response": "853",
+      "predicted": 853,
+      "correct": true
+    },
+    {
+      "number": 28,
+      "french": "vingt-huit",
+      "category": "decimal_tens",
+      "response": "28",
+      "predicted": 28,
+      "correct": true
+    },
+    {
+      "number": 92,
+      "french": "quatre-vingt-douze",
+      "category": "vigesimal_90s",
+      "response": "92",
+      "predicted": 92,
+      "correct": true
+    },
+    {
+      "number": 815,
+      "french": "huit cent quinze",
+      "category": "hundreds",
+      "response": "815",
+      "predicted": 815,
+      "correct": true
+    },
+    {
+      "number": 147,
+      "french": "cent quarante-sept",
+      "category": "hundreds",
+      "response": "147",
+      "predicted": 147,
+      "correct": true
+    },
+    {
+      "number": 39,
+      "french": "trente-neuf",
+      "category": "decimal_tens",
+      "response": "39",
+      "predicted": 39,
+      "correct": true
+    },
+    {
+      "number": 601,
+      "french": "six cent un",
+      "category": "hundreds",
+      "response": "601",
+      "predicted": 601,
+      "correct": true
+    },
+    {
+      "number": 48,
+      "french": "quarante-huit",
+      "category": "decimal_tens",
+      "response": "48",
+      "predicted": 48,
+      "correct": true
+    },
+    {
+      "number": 236,
+      "french": "deux cent trente-six",
+      "category": "hundreds",
+      "response": "236",
+      "predicted": 236,
+      "correct": true
+    },
+    {
+      "number": 64,
+      "french": "soixante-quatre",
+      "category": "decimal_tens",
+      "response": "64",
+      "predicted": 64,
+      "correct": true
+    },
+    {
+      "number": 893,
+      "french": "huit cent quatre-vingt-treize",
+      "category": "hundreds",
+      "response": "893",
+      "predicted": 893,
+      "correct": true
+    },
+    {
+      "number": 402,
+      "french": "quatre cent deux",
+      "category": "hundreds",
+      "response": "402",
+      "predicted": 402,
+      "correct": true
+    },
+    {
+      "number": 946,
+      "french": "neuf cent quarante-six",
+      "category": "hundreds",
+      "response": "946",
+      "predicted": 946,
+      "correct": true
+    },
+    {
+      "number": 904,
+      "french": "neuf cent quatre",
+      "category": "hundreds",
+      "response": "904",
+      "predicted": 904,
+      "correct": true
+    },
+    {
+      "number": 781,
+      "french": "sept cent quatre-vingt-un",
+      "category": "hundreds",
+      "response": "781",
+      "predicted": 781,
+      "correct": true
+    },
+    {
+      "number": 89,
+      "french": "quatre-vingt-neuf",
+      "category": "vigesimal_80s",
+      "response": "89",
+      "predicted": 89,
+      "correct": true
+    },
+    {
+      "number": 65,
+      "french": "soixante-cinq",
+      "category": "decimal_tens",
+      "response": "65",
+      "predicted": 65,
+      "correct": true
+    },
+    {
+      "number": 559,
+      "french": "cinq cent cinquante-neuf",
+      "category": "hundreds",
+      "response": "559",
+      "predicted": 559,
+      "correct": true
+    },
+    {
+      "number": 72,
+      "french": "soixante-douze",
+      "category": "vigesimal_70s",
+      "response": "72",
+      "predicted": 72,
+      "correct": true
+    },
+    {
+      "number": 11,
+      "french": "onze",
+      "category": "teens",
+      "response": "11",
+      "predicted": 11,
+      "correct": true
+    },
+    {
+      "number": 23,
+      "french": "vingt-trois",
+      "category": "decimal_tens",
+      "response": "23",
+      "predicted": 23,
+      "correct": true
+    },
+    {
+      "number": 735,
+      "french": "sept cent trente-cinq",
+      "category": "hundreds",
+      "response": "735",
+      "predicted": 735,
+      "correct": true
+    },
+    {
+      "number": 962,
+      "french": "neuf cent soixante-deux",
+      "category": "hundreds",
+      "response": "962",
+      "predicted": 962,
+      "correct": true
+    },
+    {
+      "number": 52,
+      "french": "cinquante-deux",
+      "category": "decimal_tens",
+      "response": "52",
+      "predicted": 52,
+      "correct": true
+    },
+    {
+      "number": 66,
+      "french": "soixante-six",
+      "category": "decimal_tens",
+      "response": "66",
+      "predicted": 66,
+      "correct": true
+    },
+    {
+      "number": 313,
+      "french": "trois cent treize",
+      "category": "hundreds",
+      "response": "313",
+      "predicted": 313,
+      "correct": true
+    },
+    {
+      "number": 318,
+      "french": "trois cent dix-huit",
+      "category": "hundreds",
+      "response": "318",
+      "predicted": 318,
+      "correct": true
+    },
+    {
+      "number": 37,
+      "french": "trente-sept",
+      "category": "decimal_tens",
+      "response": "37",
+      "predicted": 37,
+      "correct": true
+    },
+    {
+      "number": 126,
+      "french": "cent vingt-six",
+      "category": "hundreds",
+      "response": "126",
+      "predicted": 126,
+      "correct": true
+    },
+    {
+      "number": 549,
+      "french": "cinq cent quarante-neuf",
+      "category": "hundreds",
+      "response": "549",
+      "predicted": 549,
+      "correct": true
+    },
+    {
+      "number": 54,
+      "french": "cinquante-quatre",
+      "category": "decimal_tens",
+      "response": "54",
+      "predicted": 54,
+      "correct": true
+    },
+    {
+      "number": 35,
+      "french": "trente-cinq",
+      "category": "decimal_tens",
+      "response": "35",
+      "predicted": 35,
+      "correct": true
+    },
+    {
+      "number": 26,
+      "french": "vingt-six",
+      "category": "decimal_tens",
+      "response": "26",
+      "predicted": 26,
+      "correct": true
+    },
+    {
+      "number": 453,
+      "french": "quatre cent cinquante-trois",
+      "category": "hundreds",
+      "response": "453",
+      "predicted": 453,
+      "correct": true
+    },
+    {
+      "number": 29,
+      "french": "vingt-neuf",
+      "category": "decimal_tens",
+      "response": "29",
+      "predicted": 29,
+      "correct": true
+    },
+    {
+      "number": 56,
+      "french": "cinquante-six",
+      "category": "decimal_tens",
+      "response": "56",
+      "predicted": 56,
+      "correct": true
+    },
+    {
+      "number": 842,
+      "french": "huit cent quarante-deux",
+      "category": "hundreds",
+      "response": "842",
+      "predicted": 842,
+      "correct": true
+    },
+    {
+      "number": 36,
+      "french": "trente-six",
+      "category": "decimal_tens",
+      "response": "36",
+      "predicted": 36,
+      "correct": true
+    },
+    {
+      "number": 351,
+      "french": "trois cent cinquante et un",
+      "category": "hundreds",
+      "response": "351",
+      "predicted": 351,
+      "correct": true
+    },
+    {
+      "number": 779,
+      "french": "sept cent soixante-dix-neuf",
+      "category": "hundreds",
+      "response": "779",
+      "predicted": 779,
+      "correct": true
+    },
+    {
+      "number": 364,
+      "french": "trois cent soixante-quatre",
+      "category": "hundreds",
+      "response": "364",
+      "predicted": 364,
+      "correct": true
+    },
+    {
+      "number": 69,
+      "french": "soixante-neuf",
+      "category": "decimal_tens",
+      "response": "69",
+      "predicted": 69,
+      "correct": true
+    },
+    {
+      "number": 743,
+      "french": "sept cent quarante-trois",
+      "category": "hundreds",
+      "response": "743",
+      "predicted": 743,
+      "correct": true
+    },
+    {
+      "number": 88,
+      "french": "quatre-vingt-huit",
+      "category": "vigesimal_80s",
+      "response": "88",
+      "predicted": 88,
+      "correct": true
+    },
+    {
+      "number": 255,
+      "french": "deux cent cinquante-cinq",
+      "category": "hundreds",
+      "response": "255",
+      "predicted": 255,
+      "correct": true
+    },
+    {
+      "number": 585,
+      "french": "cinq cent quatre-vingt-cinq",
+      "category": "hundreds",
+      "response": "585",
+      "predicted": 585,
+      "correct": true
+    },
+    {
+      "number": 226,
+      "french": "deux cent vingt-six",
+      "category": "hundreds",
+      "response": "226",
+      "predicted": 226,
+      "correct": true
+    },
+    {
+      "number": 197,
+      "french": "cent quatre-vingt-dix-sept",
+      "category": "hundreds",
+      "response": "197",
+      "predicted": 197,
+      "correct": true
+    },
+    {
+      "number": 677,
+      "french": "six cent soixante-dix-sept",
+      "category": "hundreds",
+      "response": "677",
+      "predicted": 677,
+      "correct": true
+    },
+    {
+      "number": 921,
+      "french": "neuf cent vingt et un",
+      "category": "hundreds",
+      "response": "921",
+      "predicted": 921,
+      "correct": true
+    },
+    {
+      "number": 80,
+      "french": "quatre-vingts",
+      "category": "vigesimal_80s",
+      "response": "80",
+      "predicted": 80,
+      "correct": true
+    },
+    {
+      "number": 73,
+      "french": "soixante-treize",
+      "category": "vigesimal_70s",
+      "response": "73",
+      "predicted": 73,
+      "correct": true
+    },
+    {
+      "number": 95,
+      "french": "quatre-vingt-quinze",
+      "category": "vigesimal_90s",
+      "response": "95",
+      "predicted": 95,
+      "correct": true
+    },
+    {
+      "number": 137,
+      "french": "cent trente-sept",
+      "category": "hundreds",
+      "response": "137",
+      "predicted": 137,
+      "correct": true
+    },
+    {
+      "number": 646,
+      "french": "six cent quarante-six",
+      "category": "hundreds",
+      "response": "646",
+      "predicted": 646,
+      "correct": true
+    },
+    {
+      "number": 58,
+      "french": "cinquante-huit",
+      "category": "decimal_tens",
+      "response": "58",
+      "predicted": 58,
+      "correct": true
+    },
+    {
+      "number": 49,
+      "french": "quarante-neuf",
+      "category": "decimal_tens",
+      "response": "49",
+      "predicted": 49,
+      "correct": true
+    },
+    {
+      "number": 96,
+      "french": "quatre-vingt-seize",
+      "category": "vigesimal_90s",
+      "response": "96",
+      "predicted": 96,
+      "correct": true
+    },
+    {
+      "number": 738,
+      "french": "sept cent trente-huit",
+      "category": "hundreds",
+      "response": "738",
+      "predicted": 738,
+      "correct": true
+    },
+    {
+      "number": 766,
+      "french": "sept cent soixante-six",
+      "category": "hundreds",
+      "response": "766",
+      "predicted": 766,
+      "correct": true
+    },
+    {
+      "number": 81,
+      "french": "quatre-vingt-un",
+      "category": "vigesimal_80s",
+      "response": "81",
+      "predicted": 81,
+      "correct": true
+    },
+    {
+      "number": 553,
+      "french": "cinq cent cinquante-trois",
+      "category": "hundreds",
+      "response": "553",
+      "predicted": 553,
+      "correct": true
+    },
+    {
+      "number": 844,
+      "french": "huit cent quarante-quatre",
+      "category": "hundreds",
+      "response": "844",
+      "predicted": 844,
+      "correct": true
+    },
+    {
+      "number": 450,
+      "french": "quatre cent cinquante",
+      "category": "hundreds",
+      "response": "450",
+      "predicted": 450,
+      "correct": true
+    },
+    {
+      "number": 690,
+      "french": "six cent quatre-vingt-dix",
+      "category": "hundreds",
+      "response": "690",
+      "predicted": 690,
+      "correct": true
+    },
+    {
+      "number": 470,
+      "french": "quatre cent soixante-dix",
+      "category": "hundreds",
+      "response": "470",
+      "predicted": 470,
+      "correct": true
+    },
+    {
+      "number": 160,
+      "french": "cent soixante",
+      "category": "hundreds",
+      "response": "160",
+      "predicted": 160,
+      "correct": true
+    },
+    {
+      "number": 276,
+      "french": "deux cent soixante-seize",
+      "category": "hundreds",
+      "response": "276",
+      "predicted": 276,
+      "correct": true
+    },
+    {
+      "number": 294,
+      "french": "deux cent quatre-vingt-quatorze",
+      "category": "hundreds",
+      "response": "294",
+      "predicted": 294,
+      "correct": true
+    },
+    {
+      "number": 93,
+      "french": "quatre-vingt-treize",
+      "category": "vigesimal_90s",
+      "response": "93",
+      "predicted": 93,
+      "correct": true
+    },
+    {
+      "number": 151,
+      "french": "cent cinquante et un",
+      "category": "hundreds",
+      "response": "151",
+      "predicted": 151,
+      "correct": true
+    },
+    {
+      "number": 591,
+      "french": "cinq cent quatre-vingt-onze",
+      "category": "hundreds",
+      "response": "591",
+      "predicted": 591,
+      "correct": true
+    },
+    {
+      "number": 304,
+      "french": "trois cent quatre",
+      "category": "hundreds",
+      "response": "304",
+      "predicted": 304,
+      "correct": true
+    },
+    {
+      "number": 818,
+      "french": "huit cent dix-huit",
+      "category": "hundreds",
+      "response": "818",
+      "predicted": 818,
+      "correct": true
+    },
+    {
+      "number": 173,
+      "french": "cent soixante-treize",
+      "category": "hundreds",
+      "response": "173",
+      "predicted": 173,
+      "correct": true
+    },
+    {
+      "number": 161,
+      "french": "cent soixante et un",
+      "category": "hundreds",
+      "response": "161",
+      "predicted": 161,
+      "correct": true
+    },
+    {
+      "number": 183,
+      "french": "cent quatre-vingt-trois",
+      "category": "hundreds",
+      "response": "183",
+      "predicted": 183,
+      "correct": true
+    },
+    {
+      "number": 83,
+      "french": "quatre-vingt-trois",
+      "category": "vigesimal_80s",
+      "response": "83",
+      "predicted": 83,
+      "correct": true
+    },
+    {
+      "number": 67,
+      "french": "soixante-sept",
+      "category": "decimal_tens",
+      "response": "67",
+      "predicted": 67,
+      "correct": true
+    },
+    {
+      "number": 112,
+      "french": "cent douze",
+      "category": "hundreds",
+      "response": "112",
+      "predicted": 112,
+      "correct": true
+    },
+    {
+      "number": 626,
+      "french": "six cent vingt-six",
+      "category": "hundreds",
+      "response": "626",
+      "predicted": 626,
+      "correct": true
+    },
+    {
+      "number": 871,
+      "french": "huit cent soixante et onze",
+      "category": "hundreds",
+      "response": "871",
+      "predicted": 871,
+      "correct": true
+    },
+    {
+      "number": 678,
+      "french": "six cent soixante-dix-huit",
+      "category": "hundreds",
+      "response": "678",
+      "predicted": 678,
+      "correct": true
+    },
+    {
+      "number": 380,
+      "french": "trois cent quatre-vingts",
+      "category": "hundreds",
+      "response": "380",
+      "predicted": 380,
+      "correct": true
+    },
+    {
+      "number": 784,
+      "french": "sept cent quatre-vingt-quatre",
+      "category": "hundreds",
+      "response": "784",
+      "predicted": 784,
+      "correct": true
+    },
+    {
+      "number": 76,
+      "french": "soixante-seize",
+      "category": "vigesimal_70s",
+      "response": "76",
+      "predicted": 76,
+      "correct": true
+    },
+    {
+      "number": 63,
+      "french": "soixante-trois",
+      "category": "decimal_tens",
+      "response": "63",
+      "predicted": 63,
+      "correct": true
+    },
+    {
+      "number": 660,
+      "french": "six cent soixante",
+      "category": "hundreds",
+      "response": "660",
+      "predicted": 660,
+      "correct": true
+    },
+    {
+      "number": 403,
+      "french": "quatre cent trois",
+      "category": "hundreds",
+      "response": "403",
+      "predicted": 403,
+      "correct": true
+    },
+    {
+      "number": 891,
+      "french": "huit cent quatre-vingt-onze",
+      "category": "hundreds",
+      "response": "891",
+      "predicted": 891,
+      "correct": true
+    },
+    {
+      "number": 61,
+      "french": "soixante et un",
+      "category": "decimal_tens",
+      "response": "61",
+      "predicted": 61,
+      "correct": true
+    },
+    {
+      "number": 929,
+      "french": "neuf cent vingt-neuf",
+      "category": "hundreds",
+      "response": "929",
+      "predicted": 929,
+      "correct": true
+    },
+    {
+      "number": 376,
+      "french": "trois cent soixante-seize",
+      "category": "hundreds",
+      "response": "376",
+      "predicted": 376,
+      "correct": true
+    },
+    {
+      "number": 82,
+      "french": "quatre-vingt-deux",
+      "category": "vigesimal_80s",
+      "response": "82",
+      "predicted": 82,
+      "correct": true
+    },
+    {
+      "number": 94,
+      "french": "quatre-vingt-quatorze",
+      "category": "vigesimal_90s",
+      "response": "94",
+      "predicted": 94,
+      "correct": true
+    },
+    {
+      "number": 40,
+      "french": "quarante",
+      "category": "decimal_tens",
+      "response": "40",
+      "predicted": 40,
+      "correct": true
+    },
+    {
+      "number": 469,
+      "french": "quatre cent soixante-neuf",
+      "category": "hundreds",
+      "response": "469",
+      "predicted": 469,
+      "correct": true
+    },
+    {
+      "number": 955,
+      "french": "neuf cent cinquante-cinq",
+      "category": "hundreds",
+      "response": "955",
+      "predicted": 955,
+      "correct": true
+    },
+    {
+      "number": 27,
+      "french": "vingt-sept",
+      "category": "decimal_tens",
+      "response": "27",
+      "predicted": 27,
+      "correct": true
+    },
+    {
+      "number": 20,
+      "french": "vingt",
+      "category": "decimal_tens",
+      "response": "20",
+      "predicted": 20,
+      "correct": true
+    },
+    {
+      "number": 544,
+      "french": "cinq cent quarante-quatre",
+      "category": "hundreds",
+      "response": "544",
+      "predicted": 544,
+      "correct": true
+    },
+    {
+      "number": 46,
+      "french": "quarante-six",
+      "category": "decimal_tens",
+      "response": "46",
+      "predicted": 46,
+      "correct": true
+    },
+    {
+      "number": 128,
+      "french": "cent vingt-huit",
+      "category": "hundreds",
+      "response": "128",
+      "predicted": 128,
+      "correct": true
+    },
+    {
+      "number": 778,
+      "french": "sept cent soixante-dix-huit",
+      "category": "hundreds",
+      "response": "778",
+      "predicted": 778,
+      "correct": true
+    },
+    {
+      "number": 51,
+      "french": "cinquante et un",
+      "category": "decimal_tens",
+      "response": "51",
+      "predicted": 51,
+      "correct": true
+    },
+    {
+      "number": 722,
+      "french": "sept cent vingt-deux",
+      "category": "hundreds",
+      "response": "722",
+      "predicted": 722,
+      "correct": true
+    },
+    {
+      "number": 44,
+      "french": "quarante-quatre",
+      "category": "decimal_tens",
+      "response": "44",
+      "predicted": 44,
+      "correct": true
+    },
+    {
+      "number": 723,
+      "french": "sept cent vingt-trois",
+      "category": "hundreds",
+      "response": "723",
+      "predicted": 723,
+      "correct": true
+    },
+    {
+      "number": 34,
+      "french": "trente-quatre",
+      "category": "decimal_tens",
+      "response": "34",
+      "predicted": 34,
+      "correct": true
+    },
+    {
+      "number": 354,
+      "french": "trois cent cinquante-quatre",
+      "category": "hundreds",
+      "response": "354",
+      "predicted": 354,
+      "correct": true
+    },
+    {
+      "number": 59,
+      "french": "cinquante-neuf",
+      "category": "decimal_tens",
+      "response": "59",
+      "predicted": 59,
+      "correct": true
+    },
+    {
+      "number": 247,
+      "french": "deux cent quarante-sept",
+      "category": "hundreds",
+      "response": "247",
+      "predicted": 247,
+      "correct": true
+    },
+    {
+      "number": 296,
+      "french": "deux cent quatre-vingt-seize",
+      "category": "hundreds",
+      "response": "296",
+      "predicted": 296,
+      "correct": true
+    },
+    {
+      "number": 246,
+      "french": "deux cent quarante-six",
+      "category": "hundreds",
+      "response": "246",
+      "predicted": 246,
+      "correct": true
+    },
+    {
+      "number": 349,
+      "french": "trois cent quarante-neuf",
+      "category": "hundreds",
+      "response": "349",
+      "predicted": 349,
+      "correct": true
+    },
+    {
+      "number": 518,
+      "french": "cinq cent dix-huit",
+      "category": "hundreds",
+      "response": "518",
+      "predicted": 518,
+      "correct": true
+    },
+    {
+      "number": 78,
+      "french": "soixante-dix-huit",
+      "category": "vigesimal_70s",
+      "response": "78",
+      "predicted": 78,
+      "correct": true
+    },
+    {
+      "number": 99,
+      "french": "quatre-vingt-dix-neuf",
+      "category": "vigesimal_90s",
+      "response": "99",
+      "predicted": 99,
+      "correct": true
+    },
+    {
+      "number": 77,
+      "french": "soixante-dix-sept",
+      "category": "vigesimal_70s",
+      "response": "77",
+      "predicted": 77,
+      "correct": true
+    },
+    {
+      "number": 467,
+      "french": "quatre cent soixante-sept",
+      "category": "hundreds",
+      "response": "467",
+      "predicted": 467,
+      "correct": true
+    },
+    {
+      "number": 671,
+      "french": "six cent soixante et onze",
+      "category": "hundreds",
+      "response": "671",
+      "predicted": 671,
+      "correct": true
+    },
+    {
+      "number": 79,
+      "french": "soixante-dix-neuf",
+      "category": "vigesimal_70s",
+      "response": "79",
+      "predicted": 79,
+      "correct": true
+    },
+    {
+      "number": 71,
+      "french": "soixante et onze",
+      "category": "vigesimal_70s",
+      "response": "71",
+      "predicted": 71,
+      "correct": true
+    },
+    {
+      "number": 68,
+      "french": "soixante-huit",
+      "category": "decimal_tens",
+      "response": "68",
+      "predicted": 68,
+      "correct": true
+    },
+    {
+      "number": 38,
+      "french": "trente-huit",
+      "category": "decimal_tens",
+      "response": "38",
+      "predicted": 38,
+      "correct": true
+    },
+    {
+      "number": 75,
+      "french": "soixante-quinze",
+      "category": "vigesimal_70s",
+      "response": "75",
+      "predicted": 75,
+      "correct": true
+    },
+    {
+      "number": 713,
+      "french": "sept cent treize",
+      "category": "hundreds",
+      "response": "713",
+      "predicted": 713,
+      "correct": true
+    },
+    {
+      "number": 86,
+      "french": "quatre-vingt-six",
+      "category": "vigesimal_80s",
+      "response": "86",
+      "predicted": 86,
+      "correct": true
+    },
+    {
+      "number": 53,
+      "french": "cinquante-trois",
+      "category": "decimal_tens",
+      "response": "53",
+      "predicted": 53,
+      "correct": true
+    },
+    {
+      "number": 30,
+      "french": "trente",
+      "category": "decimal_tens",
+      "response": "30",
+      "predicted": 30,
+      "correct": true
+    },
+    {
+      "number": 60,
+      "french": "soixante",
+      "category": "decimal_tens",
+      "response": "60",
+      "predicted": 60,
+      "correct": true
+    },
+    {
+      "number": 353,
+      "french": "trois cent cinquante-trois",
+      "category": "hundreds",
+      "response": "353",
+      "predicted": 353,
+      "correct": true
+    },
+    {
+      "number": 650,
+      "french": "six cent cinquante",
+      "category": "hundreds",
+      "response": "650",
+      "predicted": 650,
+      "correct": true
+    },
+    {
+      "number": 443,
+      "french": "quatre cent quarante-trois",
+      "category": "hundreds",
+      "response": "443",
+      "predicted": 443,
+      "correct": true
+    },
+    {
+      "number": 221,
+      "french": "deux cent vingt et un",
+      "category": "hundreds",
+      "response": "221",
+      "predicted": 221,
+      "correct": true
+    },
+    {
+      "number": 967,
+      "french": "neuf cent soixante-sept",
+      "category": "hundreds",
+      "response": "967",
+      "predicted": 967,
+      "correct": true
+    },
+    {
+      "number": 45,
+      "french": "quarante-cinq",
+      "category": "decimal_tens",
+      "response": "45",
+      "predicted": 45,
+      "correct": true
+    },
+    {
+      "number": 42,
+      "french": "quarante-deux",
+      "category": "decimal_tens",
+      "response": "42",
+      "predicted": 42,
+      "correct": true
+    },
+    {
+      "number": 990,
+      "french": "neuf cent quatre-vingt-dix",
+      "category": "hundreds",
+      "response": "990",
+      "predicted": 990,
+      "correct": true
+    },
+    {
+      "number": 50,
+      "french": "cinquante",
+      "category": "decimal_tens",
+      "response": "50",
+      "predicted": 50,
+      "correct": true
+    },
+    {
+      "number": 934,
+      "french": "neuf cent trente-quatre",
+      "category": "hundreds",
+      "response": "934",
+      "predicted": 934,
+      "correct": true
+    },
+    {
+      "number": 488,
+      "french": "quatre cent quatre-vingt-huit",
+      "category": "hundreds",
+      "response": "488",
+      "predicted": 488,
+      "correct": true
+    },
+    {
+      "number": 512,
+      "french": "cinq cent douze",
+      "category": "hundreds",
+      "response": "512",
+      "predicted": 512,
+      "correct": true
+    },
+    {
+      "number": 22,
+      "french": "vingt-deux",
+      "category": "decimal_tens",
+      "response": "22",
+      "predicted": 22,
+      "correct": true
+    },
+    {
+      "number": 314,
+      "french": "trois cent quatorze",
+      "category": "hundreds",
+      "response": "314",
+      "predicted": 314,
+      "correct": true
+    },
+    {
+      "number": 972,
+      "french": "neuf cent soixante-douze",
+      "category": "hundreds",
+      "response": "972",
+      "predicted": 972,
+      "correct": true
+    },
+    {
+      "number": 297,
+      "french": "deux cent quatre-vingt-dix-sept",
+      "category": "hundreds",
+      "response": "297",
+      "predicted": 297,
+      "correct": true
+    },
+    {
+      "number": 21,
+      "french": "vingt et un",
+      "category": "decimal_tens",
+      "response": "21",
+      "predicted": 21,
+      "correct": true
+    },
+    {
+      "number": 943,
+      "french": "neuf cent quarante-trois",
+      "category": "hundreds",
+      "response": "943",
+      "predicted": 943,
+      "correct": true
+    },
+    {
+      "number": 87,
+      "french": "quatre-vingt-sept",
+      "category": "vigesimal_80s",
+      "response": "87",
+      "predicted": 87,
+      "correct": true
+    },
+    {
+      "number": 826,
+      "french": "huit cent vingt-six",
+      "category": "hundreds",
+      "response": "826",
+      "predicted": 826,
+      "correct": true
+    },
+    {
+      "number": 91,
+      "french": "quatre-vingt-onze",
+      "category": "vigesimal_90s",
+      "response": "91",
+      "predicted": 91,
+      "correct": true
+    },
+    {
+      "number": 90,
+      "french": "quatre-vingt-dix",
+      "category": "vigesimal_90s",
+      "response": "90",
+      "predicted": 90,
+      "correct": true
+    },
+    {
+      "number": 490,
+      "french": "quatre cent quatre-vingt-dix",
+      "category": "hundreds",
+      "response": "490",
+      "predicted": 490,
+      "correct": true
+    },
+    {
+      "number": 332,
+      "french": "trois cent trente-deux",
+      "category": "hundreds",
+      "response": "332",
+      "predicted": 332,
+      "correct": true
+    },
+    {
+      "number": 84,
+      "french": "quatre-vingt-quatre",
+      "category": "vigesimal_80s",
+      "response": "84",
+      "predicted": 84,
+      "correct": true
+    },
+    {
+      "number": 55,
+      "french": "cinquante-cinq",
+      "category": "decimal_tens",
+      "response": "55",
+      "predicted": 55,
+      "correct": true
+    },
+    {
+      "number": 43,
+      "french": "quarante-trois",
+      "category": "decimal_tens",
+      "response": "43",
+      "predicted": 43,
+      "correct": true
+    },
+    {
+      "number": 801,
+      "french": "huit cent un",
+      "category": "hundreds",
+      "response": "801",
+      "predicted": 801,
+      "correct": true
+    },
+    {
+      "number": 337,
+      "french": "trois cent trente-sept",
+      "category": "hundreds",
+      "response": "337",
+      "predicted": 337,
+      "correct": true
+    },
+    {
+      "number": 74,
+      "french": "soixante-quatorze",
+      "category": "vigesimal_70s",
+      "response": "74",
+      "predicted": 74,
+      "correct": true
+    },
+    {
+      "number": 330,
+      "french": "trois cent trente",
+      "category": "hundreds",
+      "response": "330",
+      "predicted": 330,
+      "correct": true
+    },
+    {
+      "number": 645,
+      "french": "six cent quarante-cinq",
+      "category": "hundreds",
+      "response": "645",
+      "predicted": 645,
+      "correct": true
+    },
+    {
+      "number": 751,
+      "french": "sept cent cinquante et un",
+      "category": "hundreds",
+      "response": "751",
+      "predicted": 751,
+      "correct": true
+    },
+    {
+      "number": 474,
+      "french": "quatre cent soixante-quatorze",
+      "category": "hundreds",
+      "response": "474",
+      "predicted": 474,
+      "correct": true
+    },
+    {
+      "number": 412,
+      "french": "quatre cent douze",
+      "category": "hundreds",
+      "response": "412",
+      "predicted": 412,
+      "correct": true
+    },
+    {
+      "number": 874,
+      "french": "huit cent soixante-quatorze",
+      "category": "hundreds",
+      "response": "874",
+      "predicted": 874,
+      "correct": true
+    },
+    {
+      "number": 47,
+      "french": "quarante-sept",
+      "category": "decimal_tens",
+      "response": "47",
+      "predicted": 47,
+      "correct": true
+    },
+    {
+      "number": 757,
+      "french": "sept cent cinquante-sept",
+      "category": "hundreds",
+      "response": "757",
+      "predicted": 757,
+      "correct": true
+    },
+    {
+      "number": 25,
+      "french": "vingt-cinq",
+      "category": "decimal_tens",
+      "response": "25",
+      "predicted": 25,
+      "correct": true
+    },
+    {
+      "number": 62,
+      "french": "soixante-deux",
+      "category": "decimal_tens",
+      "response": "62",
+      "predicted": 62,
+      "correct": true
+    },
+    {
+      "number": 485,
+      "french": "quatre cent quatre-vingt-cinq",
+      "category": "hundreds",
+      "response": "485",
+      "predicted": 485,
+      "correct": true
+    },
+    {
+      "number": 243,
+      "french": "deux cent quarante-trois",
+      "category": "hundreds",
+      "response": "243",
+      "predicted": 243,
+      "correct": true
+    },
+    {
+      "number": 654,
+      "french": "six cent cinquante-quatre",
+      "category": "hundreds",
+      "response": "654",
+      "predicted": 654,
+      "correct": true
+    },
+    {
+      "number": 31,
+      "french": "trente et un",
+      "category": "decimal_tens",
+      "response": "31",
+      "predicted": 31,
+      "correct": true
+    },
+    {
+      "number": 222,
+      "french": "deux cent vingt-deux",
+      "category": "hundreds",
+      "response": "222",
+      "predicted": 222,
+      "correct": true
+    },
+    {
+      "number": 97,
+      "french": "quatre-vingt-dix-sept",
+      "category": "vigesimal_90s",
+      "response": "97",
+      "predicted": 97,
+      "correct": true
+    },
+    {
+      "number": 356,
+      "french": "trois cent cinquante-six",
+      "category": "hundreds",
+      "response": "356",
+      "predicted": 356,
+      "correct": true
+    },
+    {
+      "number": 33,
+      "french": "trente-trois",
+      "category": "decimal_tens",
+      "response": "33",
+      "predicted": 33,
+      "correct": true
+    },
+    {
+      "number": 468,
+      "french": "quatre cent soixante-huit",
+      "category": "hundreds",
+      "response": "468",
+      "predicted": 468,
+      "correct": true
+    },
+    {
+      "number": 32,
+      "french": "trente-deux",
+      "category": "decimal_tens",
+      "response": "32",
+      "predicted": 32,
+      "correct": true
+    },
+    {
+      "number": 145,
+      "french": "cent quarante-cinq",
+      "category": "hundreds",
+      "response": "145",
+      "predicted": 145,
+      "correct": true
+    },
+    {
+      "number": 776,
+      "french": "sept cent soixante-seize",
+      "category": "hundreds",
+      "response": "776",
+      "predicted": 776,
+      "correct": true
+    },
+    {
+      "number": 70,
+      "french": "soixante-dix",
+      "category": "vigesimal_70s",
+      "response": "70",
+      "predicted": 70,
+      "correct": true
+    },
+    {
+      "number": 798,
+      "french": "sept cent quatre-vingt-dix-huit",
+      "category": "hundreds",
+      "response": "798",
+      "predicted": 798,
+      "correct": true
+    },
+    {
+      "number": 57,
+      "french": "cinquante-sept",
+      "category": "decimal_tens",
+      "response": "57",
+      "predicted": 57,
+      "correct": true
+    },
+    {
+      "number": 459,
+      "french": "quatre cent cinquante-neuf",
+      "category": "hundreds",
+      "response": "459",
+      "predicted": 459,
+      "correct": true
+    },
+    {
+      "number": 24,
+      "french": "vingt-quatre",
+      "category": "decimal_tens",
+      "response": "24",
+      "predicted": 24,
+      "correct": true
+    },
+    {
+      "number": 98,
+      "french": "quatre-vingt-dix-huit",
+      "category": "vigesimal_90s",
+      "response": "98",
+      "predicted": 98,
+      "correct": true
+    },
+    {
+      "number": 986,
+      "french": "neuf cent quatre-vingt-six",
+      "category": "hundreds",
+      "response": "986",
+      "predicted": 986,
+      "correct": true
+    },
+    {
+      "number": 631,
+      "french": "six cent trente et un",
+      "category": "hundreds",
+      "response": "631",
+      "predicted": 631,
+      "correct": true
+    },
+    {
+      "number": 895,
+      "french": "huit cent quatre-vingt-quinze",
+      "category": "hundreds",
+      "response": "895",
+      "predicted": 895,
+      "correct": true
+    },
+    {
+      "number": 41,
+      "french": "quarante et un",
+      "category": "decimal_tens",
+      "response": "41",
+      "predicted": 41,
+      "correct": true
+    },
+    {
+      "number": 621,
+      "french": "six cent vingt et un",
+      "category": "hundreds",
+      "response": "621",
+      "predicted": 621,
+      "correct": true
+    },
+    {
+      "number": 866,
+      "french": "huit cent soixante-six",
+      "category": "hundreds",
+      "response": "866",
+      "predicted": 866,
+      "correct": true
+    }
+  ],
+  "next_number": [
+    {
+      "number": 8,
+      "french": "huit",
+      "expected_next": "neuf",
+      "response": "neuf",
+      "category": "units",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf"
+    },
+    {
+      "number": 9,
+      "french": "neuf",
+      "expected_next": "dix",
+      "response": "dix",
+      "category": "units",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "dix"
+    },
+    {
+      "number": 10,
+      "french": "dix",
+      "expected_next": "onze",
+      "response": "onze",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "onze"
+    },
+    {
+      "number": 11,
+      "french": "onze",
+      "expected_next": "douze",
+      "response": "douze",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "douze"
+    },
+    {
+      "number": 12,
+      "french": "douze",
+      "expected_next": "treize",
+      "response": "treize",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "treize"
+    },
+    {
+      "number": 13,
+      "french": "treize",
+      "expected_next": "quatorze",
+      "response": "quatorze",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatorze"
+    },
+    {
+      "number": 14,
+      "french": "quatorze",
+      "expected_next": "quinze",
+      "response": "quinze",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quinze"
+    },
+    {
+      "number": 15,
+      "french": "quinze",
+      "expected_next": "seize",
+      "response": "seize",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "seize"
+    },
+    {
+      "number": 16,
+      "french": "seize",
+      "expected_next": "dix-sept",
+      "response": "dix-sept",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "dix-sept"
+    },
+    {
+      "number": 17,
+      "french": "dix-sept",
+      "expected_next": "dix-huit",
+      "response": "dix-huit",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "dix-huit"
+    },
+    {
+      "number": 18,
+      "french": "dix-huit",
+      "expected_next": "dix-neuf",
+      "response": "dix-neuf",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "dix-neuf"
+    },
+    {
+      "number": 19,
+      "french": "dix-neuf",
+      "expected_next": "vingt",
+      "response": "vingt",
+      "category": "teens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "vingt"
+    },
+    {
+      "number": 20,
+      "french": "vingt",
+      "expected_next": "vingt et un",
+      "response": "vingt et un",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "vingt et un"
+    },
+    {
+      "number": 21,
+      "french": "vingt et un",
+      "expected_next": "vingt-deux",
+      "response": "vingt-deux",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "vingt-deux"
+    },
+    {
+      "number": 38,
+      "french": "trente-huit",
+      "expected_next": "trente-neuf",
+      "response": "trente-neuf",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trente-neuf"
+    },
+    {
+      "number": 39,
+      "french": "trente-neuf",
+      "expected_next": "quarante",
+      "response": "quarante",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quarante"
+    },
+    {
+      "number": 40,
+      "french": "quarante",
+      "expected_next": "quarante et un",
+      "response": "quarante et un",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quarante et un"
+    },
+    {
+      "number": 41,
+      "french": "quarante et un",
+      "expected_next": "quarante-deux",
+      "response": "quarante-deux",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quarante-deux"
+    },
+    {
+      "number": 58,
+      "french": "cinquante-huit",
+      "expected_next": "cinquante-neuf",
+      "response": "cinquante-neuf",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinquante-neuf"
+    },
+    {
+      "number": 59,
+      "french": "cinquante-neuf",
+      "expected_next": "soixante",
+      "response": "soixante",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante"
+    },
+    {
+      "number": 60,
+      "french": "soixante",
+      "expected_next": "soixante et un",
+      "response": "soixante et un",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante et un"
+    },
+    {
+      "number": 61,
+      "french": "soixante et un",
+      "expected_next": "soixante-deux",
+      "response": "soixante-deux",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-deux"
+    },
+    {
+      "number": 68,
+      "french": "soixante-huit",
+      "expected_next": "soixante-neuf",
+      "response": "soixante-neuf",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-neuf"
+    },
+    {
+      "number": 69,
+      "french": "soixante-neuf",
+      "expected_next": "soixante-dix",
+      "response": "soixante-dix",
+      "category": "decimal_tens",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-dix"
+    },
+    {
+      "number": 70,
+      "french": "soixante-dix",
+      "expected_next": "soixante et onze",
+      "response": "soixante et onze",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante et onze"
+    },
+    {
+      "number": 71,
+      "french": "soixante et onze",
+      "expected_next": "soixante-douze",
+      "response": "soixante-douze",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-douze"
+    },
+    {
+      "number": 72,
+      "french": "soixante-douze",
+      "expected_next": "soixante-treize",
+      "response": "soixante-treize",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-treize"
+    },
+    {
+      "number": 73,
+      "french": "soixante-treize",
+      "expected_next": "soixante-quatorze",
+      "response": "soixante-quatorze",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-quatorze"
+    },
+    {
+      "number": 74,
+      "french": "soixante-quatorze",
+      "expected_next": "soixante-quinze",
+      "response": "soixante-quinze",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-quinze"
+    },
+    {
+      "number": 75,
+      "french": "soixante-quinze",
+      "expected_next": "soixante-seize",
+      "response": "soixante-seize",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-seize"
+    },
+    {
+      "number": 76,
+      "french": "soixante-seize",
+      "expected_next": "soixante-dix-sept",
+      "response": "soixante-dix",
+      "category": "vigesimal_70s",
+      "correct_word": false,
+      "correct_digit": false,
+      "response_clean": "soixante-dix"
+    },
+    {
+      "number": 77,
+      "french": "soixante-dix-sept",
+      "expected_next": "soixante-dix-huit",
+      "response": "soixante-dix-huit",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-dix-huit"
+    },
+    {
+      "number": 78,
+      "french": "soixante-dix-huit",
+      "expected_next": "soixante-dix-neuf",
+      "response": "soixante-dix-neuf",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "soixante-dix-neuf"
+    },
+    {
+      "number": 79,
+      "french": "soixante-dix-neuf",
+      "expected_next": "quatre-vingts",
+      "response": "quatre-vingts",
+      "category": "vigesimal_70s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingts"
+    },
+    {
+      "number": 80,
+      "french": "quatre-vingts",
+      "expected_next": "quatre-vingt-un",
+      "response": "quatre-vingt-un",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-un"
+    },
+    {
+      "number": 81,
+      "french": "quatre-vingt-un",
+      "expected_next": "quatre-vingt-deux",
+      "response": "quatre-vingt-deux",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-deux"
+    },
+    {
+      "number": 82,
+      "french": "quatre-vingt-deux",
+      "expected_next": "quatre-vingt-trois",
+      "response": "quatre-vingt-trois",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-trois"
+    },
+    {
+      "number": 83,
+      "french": "quatre-vingt-trois",
+      "expected_next": "quatre-vingt-quatre",
+      "response": "quatre-vingt-quatre",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-quatre"
+    },
+    {
+      "number": 84,
+      "french": "quatre-vingt-quatre",
+      "expected_next": "quatre-vingt-cinq",
+      "response": "quatre-vingt-cinq",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-cinq"
+    },
+    {
+      "number": 85,
+      "french": "quatre-vingt-cinq",
+      "expected_next": "quatre-vingt-six",
+      "response": "quatre-vingt-six",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-six"
+    },
+    {
+      "number": 86,
+      "french": "quatre-vingt-six",
+      "expected_next": "quatre-vingt-sept",
+      "response": "quatre-vingt-sept",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-sept"
+    },
+    {
+      "number": 87,
+      "french": "quatre-vingt-sept",
+      "expected_next": "quatre-vingt-huit",
+      "response": "quatre-vingt-huit",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-huit"
+    },
+    {
+      "number": 88,
+      "french": "quatre-vingt-huit",
+      "expected_next": "quatre-vingt-neuf",
+      "response": "quatre-vingt-neuf",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-neuf"
+    },
+    {
+      "number": 89,
+      "french": "quatre-vingt-neuf",
+      "expected_next": "quatre-vingt-dix",
+      "response": "quatre-vingt-dix",
+      "category": "vigesimal_80s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-dix"
+    },
+    {
+      "number": 90,
+      "french": "quatre-vingt-dix",
+      "expected_next": "quatre-vingt-onze",
+      "response": "quatre-vingt-onze",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-onze"
+    },
+    {
+      "number": 91,
+      "french": "quatre-vingt-onze",
+      "expected_next": "quatre-vingt-douze",
+      "response": "quatre-vingt-douze",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-douze"
+    },
+    {
+      "number": 92,
+      "french": "quatre-vingt-douze",
+      "expected_next": "quatre-vingt-treize",
+      "response": "quatre-vingt-treize",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-treize"
+    },
+    {
+      "number": 93,
+      "french": "quatre-vingt-treize",
+      "expected_next": "quatre-vingt-quatorze",
+      "response": "quatre-vingt-quatorze",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-quatorze"
+    },
+    {
+      "number": 94,
+      "french": "quatre-vingt-quatorze",
+      "expected_next": "quatre-vingt-quinze",
+      "response": "quatre-vingt-quinze",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-quinze"
+    },
+    {
+      "number": 95,
+      "french": "quatre-vingt-quinze",
+      "expected_next": "quatre-vingt-seize",
+      "response": "quatre-vingt-seize",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-seize"
+    },
+    {
+      "number": 96,
+      "french": "quatre-vingt-seize",
+      "expected_next": "quatre-vingt-dix-sept",
+      "response": "quatre-vingt-dix-sept",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-dix-sept"
+    },
+    {
+      "number": 97,
+      "french": "quatre-vingt-dix-sept",
+      "expected_next": "quatre-vingt-dix-huit",
+      "response": "quatre-vingt-dix-huit",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-dix-huit"
+    },
+    {
+      "number": 98,
+      "french": "quatre-vingt-dix-huit",
+      "expected_next": "quatre-vingt-dix-neuf",
+      "response": "quatre-vingt-dix-neuf",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre-vingt-dix-neuf"
+    },
+    {
+      "number": 99,
+      "french": "quatre-vingt-dix-neuf",
+      "expected_next": "cent",
+      "response": "cent",
+      "category": "vigesimal_90s",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent"
+    },
+    {
+      "number": 100,
+      "french": "cent",
+      "expected_next": "cent un",
+      "response": "cent un",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent un"
+    },
+    {
+      "number": 103,
+      "french": "cent trois",
+      "expected_next": "cent quatre",
+      "response": "cent quatre",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent quatre"
+    },
+    {
+      "number": 135,
+      "french": "cent trente-cinq",
+      "expected_next": "cent trente-six",
+      "response": "cent trente-six",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent trente-six"
+    },
+    {
+      "number": 136,
+      "french": "cent trente-six",
+      "expected_next": "cent trente-sept",
+      "response": "cent trente-sept",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent trente-sept"
+    },
+    {
+      "number": 162,
+      "french": "cent soixante-deux",
+      "expected_next": "cent soixante-trois",
+      "response": "cent soixante-trois",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cent soixante-trois"
+    },
+    {
+      "number": 219,
+      "french": "deux cent dix-neuf",
+      "expected_next": "deux cent vingt",
+      "response": "deux cent vingt",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "deux cent vingt"
+    },
+    {
+      "number": 251,
+      "french": "deux cent cinquante et un",
+      "expected_next": "deux cent cinquante-deux",
+      "response": "Deux cent cinquante-deux",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "deux cent cinquante-deux"
+    },
+    {
+      "number": 272,
+      "french": "deux cent soixante-douze",
+      "expected_next": "deux cent soixante-treize",
+      "response": "deux cent soixante-treize",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "deux cent soixante-treize"
+    },
+    {
+      "number": 292,
+      "french": "deux cent quatre-vingt-douze",
+      "expected_next": "deux cent quatre-vingt-treize",
+      "response": "deux cent quatre-vingt-treize",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "deux cent quatre-vingt-treize"
+    },
+    {
+      "number": 307,
+      "french": "trois cent sept",
+      "expected_next": "trois cent huit",
+      "response": "trois cent huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trois cent huit"
+    },
+    {
+      "number": 308,
+      "french": "trois cent huit",
+      "expected_next": "trois cent neuf",
+      "response": "trois cent neuf",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trois cent neuf"
+    },
+    {
+      "number": 310,
+      "french": "trois cent dix",
+      "expected_next": "trois cent onze",
+      "response": "trois cent onze",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trois cent onze"
+    },
+    {
+      "number": 324,
+      "french": "trois cent vingt-quatre",
+      "expected_next": "trois cent vingt-cinq",
+      "response": "trois cent vingt-cinq",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trois cent vingt-cinq"
+    },
+    {
+      "number": 358,
+      "french": "trois cent cinquante-huit",
+      "expected_next": "trois cent cinquante-neuf",
+      "response": "trois cent cinquante-neuf",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "trois cent cinquante-neuf"
+    },
+    {
+      "number": 379,
+      "french": "trois cent soixante-dix-neuf",
+      "expected_next": "trois cent quatre-vingts",
+      "response": "quatre cent",
+      "category": "hundreds",
+      "correct_word": false,
+      "correct_digit": false,
+      "response_clean": "quatre cent"
+    },
+    {
+      "number": 449,
+      "french": "quatre cent quarante-neuf",
+      "expected_next": "quatre cent cinquante",
+      "response": "quatre cent cinquante",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre cent cinquante"
+    },
+    {
+      "number": 469,
+      "french": "quatre cent soixante-neuf",
+      "expected_next": "quatre cent soixante-dix",
+      "response": "quatre cent soixante-dix",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre cent soixante-dix"
+    },
+    {
+      "number": 470,
+      "french": "quatre cent soixante-dix",
+      "expected_next": "quatre cent soixante et onze",
+      "response": "quatre cent soixante et onze",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "quatre cent soixante et onze"
+    },
+    {
+      "number": 519,
+      "french": "cinq cent dix-neuf",
+      "expected_next": "cinq cent vingt",
+      "response": "cinq cent vingt",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent vingt"
+    },
+    {
+      "number": 542,
+      "french": "cinq cent quarante-deux",
+      "expected_next": "cinq cent quarante-trois",
+      "response": "Cinq cent quarante-trois",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent quarante-trois"
+    },
+    {
+      "number": 551,
+      "french": "cinq cent cinquante et un",
+      "expected_next": "cinq cent cinquante-deux",
+      "response": "Cinq cent cinquante-deux",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent cinquante-deux"
+    },
+    {
+      "number": 557,
+      "french": "cinq cent cinquante-sept",
+      "expected_next": "cinq cent cinquante-huit",
+      "response": "cinq cent cinquante-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent cinquante-huit"
+    },
+    {
+      "number": 568,
+      "french": "cinq cent soixante-huit",
+      "expected_next": "cinq cent soixante-neuf",
+      "response": "cinq cent soixante-neuf",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent soixante-neuf"
+    },
+    {
+      "number": 577,
+      "french": "cinq cent soixante-dix-sept",
+      "expected_next": "cinq cent soixante-dix-huit",
+      "response": "cinq cent soixante-dix-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "cinq cent soixante-dix-huit"
+    },
+    {
+      "number": 627,
+      "french": "six cent vingt-sept",
+      "expected_next": "six cent vingt-huit",
+      "response": "six cent vingt-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent vingt-huit"
+    },
+    {
+      "number": 637,
+      "french": "six cent trente-sept",
+      "expected_next": "six cent trente-huit",
+      "response": "six cent trente-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent trente-huit"
+    },
+    {
+      "number": 661,
+      "french": "six cent soixante et un",
+      "expected_next": "six cent soixante-deux",
+      "response": "six cent soixante-deux",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent soixante-deux"
+    },
+    {
+      "number": 670,
+      "french": "six cent soixante-dix",
+      "expected_next": "six cent soixante et onze",
+      "response": "six cent soixante et onze",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent soixante et onze"
+    },
+    {
+      "number": 684,
+      "french": "six cent quatre-vingt-quatre",
+      "expected_next": "six cent quatre-vingt-cinq",
+      "response": "six cent quatre-vingt-cinq",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent quatre-vingt-cinq"
+    },
+    {
+      "number": 688,
+      "french": "six cent quatre-vingt-huit",
+      "expected_next": "six cent quatre-vingt-neuf",
+      "response": "six cent quatre-vingt-neuf",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "six cent quatre-vingt-neuf"
+    },
+    {
+      "number": 721,
+      "french": "sept cent vingt et un",
+      "expected_next": "sept cent vingt-deux",
+      "response": "sept cent vingt-deux",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "sept cent vingt-deux"
+    },
+    {
+      "number": 770,
+      "french": "sept cent soixante-dix",
+      "expected_next": "sept cent soixante et onze",
+      "response": "sept cent soixante et onze",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "sept cent soixante et onze"
+    },
+    {
+      "number": 827,
+      "french": "huit cent vingt-sept",
+      "expected_next": "huit cent vingt-huit",
+      "response": "huit cent vingt-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "huit cent vingt-huit"
+    },
+    {
+      "number": 837,
+      "french": "huit cent trente-sept",
+      "expected_next": "huit cent trente-huit",
+      "response": "huit cent trente-huit",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "huit cent trente-huit"
+    },
+    {
+      "number": 854,
+      "french": "huit cent cinquante-quatre",
+      "expected_next": "huit cent cinquante-cinq",
+      "response": "huit cent cinquante-cinq",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "huit cent cinquante-cinq"
+    },
+    {
+      "number": 901,
+      "french": "neuf cent un",
+      "expected_next": "neuf cent deux",
+      "response": "neuf cent deux",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent deux"
+    },
+    {
+      "number": 903,
+      "french": "neuf cent trois",
+      "expected_next": "neuf cent quatre",
+      "response": "neuf cent quatre",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent quatre"
+    },
+    {
+      "number": 952,
+      "french": "neuf cent cinquante-deux",
+      "expected_next": "neuf cent cinquante-trois",
+      "response": "neuf cent cinquante-trois",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent cinquante-trois"
+    },
+    {
+      "number": 955,
+      "french": "neuf cent cinquante-cinq",
+      "expected_next": "neuf cent cinquante-six",
+      "response": "neuf cent cinquante-six",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent cinquante-six"
+    },
+    {
+      "number": 956,
+      "french": "neuf cent cinquante-six",
+      "expected_next": "neuf cent cinquante-sept",
+      "response": "neuf cent cinquante-sept",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent cinquante-sept"
+    },
+    {
+      "number": 959,
+      "french": "neuf cent cinquante-neuf",
+      "expected_next": "neuf cent soixante",
+      "response": "neuf cent soixante",
+      "category": "hundreds",
+      "correct_word": true,
+      "correct_digit": false,
+      "response_clean": "neuf cent soixante"
+    }
+  ],
+  "comparison": [
+    {
+      "num_a": 91,
+      "num_b": 90,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "quatre-vingt-dix",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 874,
+      "num_b": 914,
+      "french_a": "huit cent soixante-quatorze",
+      "french_b": "neuf cent quatorze",
+      "response": "neuf cent quatorze",
+      "predicted_larger": 914,
+      "actual_larger": 914,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 225,
+      "num_b": 181,
+      "french_a": "deux cent vingt-cinq",
+      "french_b": "cent quatre-vingt-un",
+      "response": "deux cent vingt-cinq",
+      "predicted_larger": 225,
+      "actual_larger": 225,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 85,
+      "num_b": 95,
+      "french_a": "quatre-vingt-cinq",
+      "french_b": "quatre-vingt-quinze",
+      "response": "quatre-vingt-quinze",
+      "predicted_larger": 95,
+      "actual_larger": 95,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 653,
+      "num_b": 284,
+      "french_a": "six cent cinquante-trois",
+      "french_b": "deux cent quatre-vingt-quatre",
+      "response": "six cent cinquante-trois",
+      "predicted_larger": 653,
+      "actual_larger": 653,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 36,
+      "num_b": 74,
+      "french_a": "trente-six",
+      "french_b": "soixante-quatorze",
+      "response": "soixante-quatorze",
+      "predicted_larger": 74,
+      "actual_larger": 74,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 22,
+      "num_b": 78,
+      "french_a": "vingt-deux",
+      "french_b": "soixante-dix-huit",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 89,
+      "num_b": 80,
+      "french_a": "quatre-vingt-neuf",
+      "french_b": "quatre-vingts",
+      "response": "quatre-vingt-neuf",
+      "predicted_larger": 89,
+      "actual_larger": 89,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 973,
+      "num_b": 774,
+      "french_a": "neuf cent soixante-treize",
+      "french_b": "sept cent soixante-quatorze",
+      "response": "neuf cent soixante-treize",
+      "predicted_larger": 973,
+      "actual_larger": 973,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 212,
+      "num_b": 853,
+      "french_a": "deux cent douze",
+      "french_b": "huit cent cinquante-trois",
+      "response": "huit cent cinquante-trois",
+      "predicted_larger": 853,
+      "actual_larger": 853,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 98,
+      "num_b": 95,
+      "french_a": "quatre-vingt-dix-huit",
+      "french_b": "quatre-vingt-quinze",
+      "response": "quatre-vingt-dix-huit",
+      "predicted_larger": 98,
+      "actual_larger": 98,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 82,
+      "num_b": 87,
+      "french_a": "quatre-vingt-deux",
+      "french_b": "quatre-vingt-sept",
+      "response": "quatre-vingt-sept",
+      "predicted_larger": 87,
+      "actual_larger": 87,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 90,
+      "num_b": 80,
+      "french_a": "quatre-vingt-dix",
+      "french_b": "quatre-vingts",
+      "response": "quatre-vingt-dix",
+      "predicted_larger": 90,
+      "actual_larger": 90,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 915,
+      "num_b": 769,
+      "french_a": "neuf cent quinze",
+      "french_b": "sept cent soixante-neuf",
+      "response": "neuf cent quinze",
+      "predicted_larger": 915,
+      "actual_larger": 915,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 94,
+      "num_b": 77,
+      "french_a": "quatre-vingt-quatorze",
+      "french_b": "soixante-dix-sept",
+      "response": "quatre-vingt-quatorze",
+      "predicted_larger": 94,
+      "actual_larger": 94,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 83,
+      "num_b": 91,
+      "french_a": "quatre-vingt-trois",
+      "french_b": "quatre-vingt-onze",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 74,
+      "num_b": 76,
+      "french_a": "soixante-quatorze",
+      "french_b": "soixante-seize",
+      "response": "soixante-seize",
+      "predicted_larger": 76,
+      "actual_larger": 76,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 75,
+      "num_b": 89,
+      "french_a": "soixante-quinze",
+      "french_b": "quatre-vingt-neuf",
+      "response": "quatre-vingt-neuf",
+      "predicted_larger": 89,
+      "actual_larger": 89,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 430,
+      "num_b": 552,
+      "french_a": "quatre cent trente",
+      "french_b": "cinq cent cinquante-deux",
+      "response": "cinq cent cinquante-deux",
+      "predicted_larger": 552,
+      "actual_larger": 552,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 487,
+      "num_b": 461,
+      "french_a": "quatre cent quatre-vingt-sept",
+      "french_b": "quatre cent soixante et un",
+      "response": "quatre cent quatre-vingt-sept",
+      "predicted_larger": 487,
+      "actual_larger": 487,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 562,
+      "num_b": 457,
+      "french_a": "cinq cent soixante-deux",
+      "french_b": "quatre cent cinquante-sept",
+      "response": "cinq cent soixante-deux",
+      "predicted_larger": 562,
+      "actual_larger": 562,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 237,
+      "num_b": 393,
+      "french_a": "deux cent trente-sept",
+      "french_b": "trois cent quatre-vingt-treize",
+      "response": "trois cent quatre-vingt-treize",
+      "predicted_larger": 393,
+      "actual_larger": 393,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 93,
+      "num_b": 98,
+      "french_a": "quatre-vingt-treize",
+      "french_b": "quatre-vingt-dix-huit",
+      "response": "quatre-vingt-dix-huit",
+      "predicted_larger": 98,
+      "actual_larger": 98,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 907,
+      "num_b": 110,
+      "french_a": "neuf cent sept",
+      "french_b": "cent dix",
+      "response": "neuf cent sept",
+      "predicted_larger": 907,
+      "actual_larger": 907,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 73,
+      "num_b": 42,
+      "french_a": "soixante-treize",
+      "french_b": "quarante-deux",
+      "response": "soixante-treize",
+      "predicted_larger": 73,
+      "actual_larger": 73,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 36,
+      "num_b": 73,
+      "french_a": "trente-six",
+      "french_b": "soixante-treize",
+      "response": "soixante-treize",
+      "predicted_larger": 73,
+      "actual_larger": 73,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 80,
+      "num_b": 46,
+      "french_a": "quatre-vingts",
+      "french_b": "quarante-six",
+      "response": "quatre-vingts",
+      "predicted_larger": 80,
+      "actual_larger": 80,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 361,
+      "num_b": 306,
+      "french_a": "trois cent soixante et un",
+      "french_b": "trois cent six",
+      "response": "trois cent soixante et un",
+      "predicted_larger": 361,
+      "actual_larger": 361,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 77,
+      "num_b": 85,
+      "french_a": "soixante-dix-sept",
+      "french_b": "quatre-vingt-cinq",
+      "response": "quatre-vingt-cinq",
+      "predicted_larger": 85,
+      "actual_larger": 85,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 784,
+      "num_b": 590,
+      "french_a": "sept cent quatre-vingt-quatre",
+      "french_b": "cinq cent quatre-vingt-dix",
+      "response": "sept cent quatre-vingt-quatre",
+      "predicted_larger": 784,
+      "actual_larger": 784,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 476,
+      "num_b": 684,
+      "french_a": "quatre cent soixante-seize",
+      "french_b": "six cent quatre-vingt-quatre",
+      "response": "six cent quatre-vingt-quatre",
+      "predicted_larger": 684,
+      "actual_larger": 684,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 84,
+      "num_b": 91,
+      "french_a": "quatre-vingt-quatre",
+      "french_b": "quatre-vingt-onze",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 76,
+      "num_b": 86,
+      "french_a": "soixante-seize",
+      "french_b": "quatre-vingt-six",
+      "response": "quatre-vingt-six",
+      "predicted_larger": 86,
+      "actual_larger": 86,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 76,
+      "num_b": 74,
+      "french_a": "soixante-seize",
+      "french_b": "soixante-quatorze",
+      "response": "soixante-seize",
+      "predicted_larger": 76,
+      "actual_larger": 76,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 467,
+      "num_b": 425,
+      "french_a": "quatre cent soixante-sept",
+      "french_b": "quatre cent vingt-cinq",
+      "response": "quatre cent soixante-sept",
+      "predicted_larger": 467,
+      "actual_larger": 467,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 282,
+      "num_b": 451,
+      "french_a": "deux cent quatre-vingt-deux",
+      "french_b": "quatre cent cinquante et un",
+      "response": "quatre cent cinquante et un",
+      "predicted_larger": 451,
+      "actual_larger": 451,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 711,
+      "num_b": 157,
+      "french_a": "sept cent onze",
+      "french_b": "cent cinquante-sept",
+      "response": "sept cent onze",
+      "predicted_larger": 711,
+      "actual_larger": 711,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 882,
+      "num_b": 789,
+      "french_a": "huit cent quatre-vingt-deux",
+      "french_b": "sept cent quatre-vingt-neuf",
+      "response": "huit cent quatre-vingt-deux",
+      "predicted_larger": 882,
+      "actual_larger": 882,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 88,
+      "num_b": 89,
+      "french_a": "quatre-vingt-huit",
+      "french_b": "quatre-vingt-neuf",
+      "response": "quatre-vingt-neuf",
+      "predicted_larger": 89,
+      "actual_larger": 89,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 152,
+      "num_b": 672,
+      "french_a": "cent cinquante-deux",
+      "french_b": "six cent soixante-douze",
+      "response": "six cent soixante-douze",
+      "predicted_larger": 672,
+      "actual_larger": 672,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 63,
+      "num_b": 76,
+      "french_a": "soixante-trois",
+      "french_b": "soixante-seize",
+      "response": "soixante-seize",
+      "predicted_larger": 76,
+      "actual_larger": 76,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 142,
+      "num_b": 155,
+      "french_a": "cent quarante-deux",
+      "french_b": "cent cinquante-cinq",
+      "response": "cent cinquante-cinq",
+      "predicted_larger": 155,
+      "actual_larger": 155,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 27,
+      "num_b": 70,
+      "french_a": "vingt-sept",
+      "french_b": "soixante-dix",
+      "response": "soixante-dix",
+      "predicted_larger": 70,
+      "actual_larger": 70,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 40,
+      "num_b": 83,
+      "french_a": "quarante",
+      "french_b": "quatre-vingt-trois",
+      "response": "quatre-vingt-trois",
+      "predicted_larger": 83,
+      "actual_larger": 83,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 91,
+      "num_b": 72,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "soixante-douze",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 47,
+      "num_b": 81,
+      "french_a": "quarante-sept",
+      "french_b": "quatre-vingt-un",
+      "response": "quatre-vingt-un",
+      "predicted_larger": 81,
+      "actual_larger": 81,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 49,
+      "num_b": 96,
+      "french_a": "quarante-neuf",
+      "french_b": "quatre-vingt-seize",
+      "response": "quatre-vingt-seize",
+      "predicted_larger": 96,
+      "actual_larger": 96,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 27,
+      "num_b": 86,
+      "french_a": "vingt-sept",
+      "french_b": "quatre-vingt-six",
+      "response": "quatre-vingt-six",
+      "predicted_larger": 86,
+      "actual_larger": 86,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 293,
+      "num_b": 241,
+      "french_a": "deux cent quatre-vingt-treize",
+      "french_b": "deux cent quarante et un",
+      "response": "deux cent quatre-vingt-treize",
+      "predicted_larger": 293,
+      "actual_larger": 293,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 705,
+      "num_b": 6,
+      "french_a": "sept cent cinq",
+      "french_b": "six",
+      "response": "sept cent cinq",
+      "predicted_larger": 705,
+      "actual_larger": 705,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "units"
+    },
+    {
+      "num_a": 913,
+      "num_b": 454,
+      "french_a": "neuf cent treize",
+      "french_b": "quatre cent cinquante-quatre",
+      "response": "neuf cent treize",
+      "predicted_larger": 913,
+      "actual_larger": 913,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 93,
+      "num_b": 75,
+      "french_a": "quatre-vingt-treize",
+      "french_b": "soixante-quinze",
+      "response": "quatre-vingt-treize",
+      "predicted_larger": 93,
+      "actual_larger": 93,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 78,
+      "num_b": 30,
+      "french_a": "soixante-dix-huit",
+      "french_b": "trente",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 91,
+      "num_b": 26,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "vingt-six",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 787,
+      "num_b": 75,
+      "french_a": "sept cent quatre-vingt-sept",
+      "french_b": "soixante-quinze",
+      "response": "sept cent quatre-vingt-sept",
+      "predicted_larger": 787,
+      "actual_larger": 787,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "hundreds",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 80,
+      "num_b": 731,
+      "french_a": "quatre-vingts",
+      "french_b": "sept cent trente et un",
+      "response": "sept cent trente et un",
+      "predicted_larger": 731,
+      "actual_larger": 731,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 908,
+      "num_b": 645,
+      "french_a": "neuf cent huit",
+      "french_b": "six cent quarante-cinq",
+      "response": "neuf cent huit",
+      "predicted_larger": 908,
+      "actual_larger": 908,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 41,
+      "num_b": 92,
+      "french_a": "quarante et un",
+      "french_b": "quatre-vingt-douze",
+      "response": "quatre-vingt-douze",
+      "predicted_larger": 92,
+      "actual_larger": 92,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 70,
+      "num_b": 31,
+      "french_a": "soixante-dix",
+      "french_b": "trente et un",
+      "response": "soixante-dix",
+      "predicted_larger": 70,
+      "actual_larger": 70,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 878,
+      "num_b": 902,
+      "french_a": "huit cent soixante-dix-huit",
+      "french_b": "neuf cent deux",
+      "response": "neuf cent deux",
+      "predicted_larger": 902,
+      "actual_larger": 902,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 736,
+      "num_b": 714,
+      "french_a": "sept cent trente-six",
+      "french_b": "sept cent quatorze",
+      "response": "sept cent trente-six",
+      "predicted_larger": 736,
+      "actual_larger": 736,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 66,
+      "num_b": 425,
+      "french_a": "soixante-six",
+      "french_b": "quatre cent vingt-cinq",
+      "response": "quatre cent vingt-cinq",
+      "predicted_larger": 425,
+      "actual_larger": 425,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "decimal_tens",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 95,
+      "num_b": 31,
+      "french_a": "quatre-vingt-quinze",
+      "french_b": "trente et un",
+      "response": "quatre-vingt-quinze",
+      "predicted_larger": 95,
+      "actual_larger": 95,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 940,
+      "num_b": 869,
+      "french_a": "neuf cent quarante",
+      "french_b": "huit cent soixante-neuf",
+      "response": "neuf cent quarante",
+      "predicted_larger": 940,
+      "actual_larger": 940,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 22,
+      "num_b": 74,
+      "french_a": "vingt-deux",
+      "french_b": "soixante-quatorze",
+      "response": "soixante-quatorze",
+      "predicted_larger": 74,
+      "actual_larger": 74,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 83,
+      "num_b": 42,
+      "french_a": "quatre-vingt-trois",
+      "french_b": "quarante-deux",
+      "response": "quatre-vingt-trois",
+      "predicted_larger": 83,
+      "actual_larger": 83,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 91,
+      "num_b": 79,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "soixante-dix-neuf",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 737,
+      "num_b": 914,
+      "french_a": "sept cent trente-sept",
+      "french_b": "neuf cent quatorze",
+      "response": "neuf cent quatorze",
+      "predicted_larger": 914,
+      "actual_larger": 914,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 78,
+      "num_b": 30,
+      "french_a": "soixante-dix-huit",
+      "french_b": "trente",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 824,
+      "num_b": 981,
+      "french_a": "huit cent vingt-quatre",
+      "french_b": "neuf cent quatre-vingt-un",
+      "response": "neuf cent quatre-vingt-un",
+      "predicted_larger": 981,
+      "actual_larger": 981,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 79,
+      "num_b": 87,
+      "french_a": "soixante-dix-neuf",
+      "french_b": "quatre-vingt-sept",
+      "response": "quatre-vingt-sept",
+      "predicted_larger": 87,
+      "actual_larger": 87,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 785,
+      "num_b": 797,
+      "french_a": "sept cent quatre-vingt-cinq",
+      "french_b": "sept cent quatre-vingt-dix-sept",
+      "response": "sept cent quatre-vingt-dix-sept",
+      "predicted_larger": 797,
+      "actual_larger": 797,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 77,
+      "num_b": 95,
+      "french_a": "soixante-dix-sept",
+      "french_b": "quatre-vingt-quinze",
+      "response": "quatre-vingt-quinze",
+      "predicted_larger": 95,
+      "actual_larger": 95,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 713,
+      "num_b": 21,
+      "french_a": "sept cent treize",
+      "french_b": "vingt et un",
+      "response": "sept cent treize",
+      "predicted_larger": 713,
+      "actual_larger": 713,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 87,
+      "num_b": 22,
+      "french_a": "quatre-vingt-sept",
+      "french_b": "vingt-deux",
+      "response": "quatre-vingt-sept",
+      "predicted_larger": 87,
+      "actual_larger": 87,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 80,
+      "num_b": 47,
+      "french_a": "quatre-vingts",
+      "french_b": "quarante-sept",
+      "response": "quatre-vingts",
+      "predicted_larger": 80,
+      "actual_larger": 80,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 93,
+      "num_b": 29,
+      "french_a": "quatre-vingt-treize",
+      "french_b": "vingt-neuf",
+      "response": "quatre-vingt-treize",
+      "predicted_larger": 93,
+      "actual_larger": 93,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 390,
+      "num_b": 489,
+      "french_a": "trois cent quatre-vingt-dix",
+      "french_b": "quatre cent quatre-vingt-neuf",
+      "response": "quatre cent quatre-vingt-neuf",
+      "predicted_larger": 489,
+      "actual_larger": 489,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 798,
+      "num_b": 436,
+      "french_a": "sept cent quatre-vingt-dix-huit",
+      "french_b": "quatre cent trente-six",
+      "response": "sept cent quatre-vingt-dix-huit",
+      "predicted_larger": 798,
+      "actual_larger": 798,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 70,
+      "num_b": 71,
+      "french_a": "soixante-dix",
+      "french_b": "soixante et onze",
+      "response": "soixante et onze",
+      "predicted_larger": 71,
+      "actual_larger": 71,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 556,
+      "num_b": 478,
+      "french_a": "cinq cent cinquante-six",
+      "french_b": "quatre cent soixante-dix-huit",
+      "response": "cinq cent cinquante-six",
+      "predicted_larger": 556,
+      "actual_larger": 556,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 91,
+      "num_b": 27,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "vingt-sept",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 724,
+      "num_b": 220,
+      "french_a": "sept cent vingt-quatre",
+      "french_b": "deux cent vingt",
+      "response": "sept cent vingt-quatre",
+      "predicted_larger": 724,
+      "actual_larger": 724,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 79,
+      "num_b": 76,
+      "french_a": "soixante-dix-neuf",
+      "french_b": "soixante-seize",
+      "response": "soixante-dix-neuf",
+      "predicted_larger": 79,
+      "actual_larger": 79,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 279,
+      "num_b": 344,
+      "french_a": "deux cent soixante-dix-neuf",
+      "french_b": "trois cent quarante-quatre",
+      "response": "trois cent quarante-quatre",
+      "predicted_larger": 344,
+      "actual_larger": 344,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 72,
+      "num_b": 96,
+      "french_a": "soixante-douze",
+      "french_b": "quatre-vingt-seize",
+      "response": "quatre-vingt-seize",
+      "predicted_larger": 96,
+      "actual_larger": 96,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 55,
+      "num_b": 88,
+      "french_a": "cinquante-cinq",
+      "french_b": "quatre-vingt-huit",
+      "response": "quatre-vingt-huit",
+      "predicted_larger": 88,
+      "actual_larger": 88,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 394,
+      "num_b": 507,
+      "french_a": "trois cent quatre-vingt-quatorze",
+      "french_b": "cinq cent sept",
+      "response": "cinq cent sept",
+      "predicted_larger": 507,
+      "actual_larger": 507,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 418,
+      "num_b": 339,
+      "french_a": "quatre cent dix-huit",
+      "french_b": "trois cent trente-neuf",
+      "response": "quatre cent dix-huit",
+      "predicted_larger": 418,
+      "actual_larger": 418,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 98,
+      "num_b": 22,
+      "french_a": "quatre-vingt-dix-huit",
+      "french_b": "vingt-deux",
+      "response": "quatre-vingt-dix-huit",
+      "predicted_larger": 98,
+      "actual_larger": 98,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 34,
+      "num_b": 96,
+      "french_a": "trente-quatre",
+      "french_b": "quatre-vingt-seize",
+      "response": "quatre-vingt-seize",
+      "predicted_larger": 96,
+      "actual_larger": 96,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 98,
+      "num_b": 46,
+      "french_a": "quatre-vingt-dix-huit",
+      "french_b": "quarante-six",
+      "response": "quatre-vingt-dix-huit",
+      "predicted_larger": 98,
+      "actual_larger": 98,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 89,
+      "num_b": 97,
+      "french_a": "quatre-vingt-neuf",
+      "french_b": "quatre-vingt-dix-sept",
+      "response": "quatre-vingt-dix-sept",
+      "predicted_larger": 97,
+      "actual_larger": 97,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 517,
+      "num_b": 437,
+      "french_a": "cinq cent dix-sept",
+      "french_b": "quatre cent trente-sept",
+      "response": "cinq cent dix-sept",
+      "predicted_larger": 517,
+      "actual_larger": 517,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 97,
+      "num_b": 67,
+      "french_a": "quatre-vingt-dix-sept",
+      "french_b": "soixante-sept",
+      "response": "quatre-vingt-dix-sept",
+      "predicted_larger": 97,
+      "actual_larger": 97,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 32,
+      "num_b": 91,
+      "french_a": "trente-deux",
+      "french_b": "quatre-vingt-onze",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 78,
+      "num_b": 38,
+      "french_a": "soixante-dix-huit",
+      "french_b": "trente-huit",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 254,
+      "num_b": 861,
+      "french_a": "deux cent cinquante-quatre",
+      "french_b": "huit cent soixante et un",
+      "response": "huit cent soixante et un",
+      "predicted_larger": 861,
+      "actual_larger": 861,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 90,
+      "num_b": 36,
+      "french_a": "quatre-vingt-dix",
+      "french_b": "trente-six",
+      "response": "quatre-vingt-dix",
+      "predicted_larger": 90,
+      "actual_larger": 90,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 544,
+      "num_b": 573,
+      "french_a": "cinq cent quarante-quatre",
+      "french_b": "cinq cent soixante-treize",
+      "response": "cinq cent soixante-treize",
+      "predicted_larger": 573,
+      "actual_larger": 573,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 7,
+      "num_b": 966,
+      "french_a": "sept",
+      "french_b": "neuf cent soixante-six",
+      "response": "neuf cent soixante-six",
+      "predicted_larger": 966,
+      "actual_larger": 966,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "units",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 69,
+      "num_b": 80,
+      "french_a": "soixante-neuf",
+      "french_b": "quatre-vingts",
+      "response": "quatre-vingts",
+      "predicted_larger": 80,
+      "actual_larger": 80,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 590,
+      "num_b": 200,
+      "french_a": "cinq cent quatre-vingt-dix",
+      "french_b": "deux cents",
+      "response": "cinq cent quatre-vingt-dix",
+      "predicted_larger": 590,
+      "actual_larger": 590,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 50,
+      "num_b": 97,
+      "french_a": "cinquante",
+      "french_b": "quatre-vingt-dix-sept",
+      "response": "quatre-vingt-dix-sept",
+      "predicted_larger": 97,
+      "actual_larger": 97,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 93,
+      "num_b": 67,
+      "french_a": "quatre-vingt-treize",
+      "french_b": "soixante-sept",
+      "response": "quatre-vingt-treize",
+      "predicted_larger": 93,
+      "actual_larger": 93,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 426,
+      "num_b": 64,
+      "french_a": "quatre cent vingt-six",
+      "french_b": "soixante-quatre",
+      "response": "quatre cent vingt-six",
+      "predicted_larger": 426,
+      "actual_larger": 426,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 977,
+      "num_b": 856,
+      "french_a": "neuf cent soixante-dix-sept",
+      "french_b": "huit cent cinquante-six",
+      "response": "neuf cent soixante-dix-sept",
+      "predicted_larger": 977,
+      "actual_larger": 977,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 713,
+      "num_b": 531,
+      "french_a": "sept cent treize",
+      "french_b": "cinq cent trente et un",
+      "response": "sept cent treize",
+      "predicted_larger": 713,
+      "actual_larger": 713,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 73,
+      "num_b": 67,
+      "french_a": "soixante-treize",
+      "french_b": "soixante-sept",
+      "response": "soixante-treize",
+      "predicted_larger": 73,
+      "actual_larger": 73,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 83,
+      "num_b": 95,
+      "french_a": "quatre-vingt-trois",
+      "french_b": "quatre-vingt-quinze",
+      "response": "quatre-vingt-quinze",
+      "predicted_larger": 95,
+      "actual_larger": 95,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 65,
+      "num_b": 87,
+      "french_a": "soixante-cinq",
+      "french_b": "quatre-vingt-sept",
+      "response": "quatre-vingt-sept",
+      "predicted_larger": 87,
+      "actual_larger": 87,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 266,
+      "num_b": 770,
+      "french_a": "deux cent soixante-six",
+      "french_b": "sept cent soixante-dix",
+      "response": "sept cent soixante-dix",
+      "predicted_larger": 770,
+      "actual_larger": 770,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 599,
+      "num_b": 969,
+      "french_a": "cinq cent quatre-vingt-dix-neuf",
+      "french_b": "neuf cent soixante-neuf",
+      "response": "neuf cent soixante-neuf",
+      "predicted_larger": 969,
+      "actual_larger": 969,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 82,
+      "num_b": 91,
+      "french_a": "quatre-vingt-deux",
+      "french_b": "quatre-vingt-onze",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 628,
+      "num_b": 835,
+      "french_a": "six cent vingt-huit",
+      "french_b": "huit cent trente-cinq",
+      "response": "huit cent trente-cinq",
+      "predicted_larger": 835,
+      "actual_larger": 835,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 476,
+      "num_b": 52,
+      "french_a": "quatre cent soixante-seize",
+      "french_b": "cinquante-deux",
+      "response": "quatre cent soixante-seize",
+      "predicted_larger": 476,
+      "actual_larger": 476,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 87,
+      "num_b": 41,
+      "french_a": "quatre-vingt-sept",
+      "french_b": "quarante et un",
+      "response": "quatre-vingt-sept",
+      "predicted_larger": 87,
+      "actual_larger": 87,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 554,
+      "num_b": 83,
+      "french_a": "cinq cent cinquante-quatre",
+      "french_b": "quatre-vingt-trois",
+      "response": "cinq cent cinquante-quatre",
+      "predicted_larger": 554,
+      "actual_larger": 554,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "hundreds",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 762,
+      "num_b": 883,
+      "french_a": "sept cent soixante-deux",
+      "french_b": "huit cent quatre-vingt-trois",
+      "response": "huit cent quatre-vingt-trois",
+      "predicted_larger": 883,
+      "actual_larger": 883,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 571,
+      "num_b": 256,
+      "french_a": "cinq cent soixante et onze",
+      "french_b": "deux cent cinquante-six",
+      "response": "cinq cent soixante et onze",
+      "predicted_larger": 571,
+      "actual_larger": 571,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 99,
+      "num_b": 54,
+      "french_a": "quatre-vingt-dix-neuf",
+      "french_b": "cinquante-quatre",
+      "response": "quatre-vingt-dix-neuf",
+      "predicted_larger": 99,
+      "actual_larger": 99,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 772,
+      "num_b": 400,
+      "french_a": "sept cent soixante-douze",
+      "french_b": "quatre cents",
+      "response": "sept cent soixante-douze",
+      "predicted_larger": 772,
+      "actual_larger": 772,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 96,
+      "num_b": 70,
+      "french_a": "quatre-vingt-seize",
+      "french_b": "soixante-dix",
+      "response": "quatre-vingt-seize",
+      "predicted_larger": 96,
+      "actual_larger": 96,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_90s",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 73,
+      "num_b": 44,
+      "french_a": "soixante-treize",
+      "french_b": "quarante-quatre",
+      "response": "soixante-treize",
+      "predicted_larger": 73,
+      "actual_larger": 73,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 32,
+      "num_b": 88,
+      "french_a": "trente-deux",
+      "french_b": "quatre-vingt-huit",
+      "response": "quatre-vingt-huit",
+      "predicted_larger": 88,
+      "actual_larger": 88,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 52,
+      "num_b": 79,
+      "french_a": "cinquante-deux",
+      "french_b": "soixante-dix-neuf",
+      "response": "soixante-dix-neuf",
+      "predicted_larger": 79,
+      "actual_larger": 79,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 78,
+      "num_b": 42,
+      "french_a": "soixante-dix-huit",
+      "french_b": "quarante-deux",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 98,
+      "num_b": 64,
+      "french_a": "quatre-vingt-dix-huit",
+      "french_b": "soixante-quatre",
+      "response": "quatre-vingt-dix-huit",
+      "predicted_larger": 98,
+      "actual_larger": 98,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 91,
+      "num_b": 41,
+      "french_a": "quatre-vingt-onze",
+      "french_b": "quarante et un",
+      "response": "quatre-vingt-onze",
+      "predicted_larger": 91,
+      "actual_larger": 91,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_90s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 534,
+      "num_b": 497,
+      "french_a": "cinq cent trente-quatre",
+      "french_b": "quatre cent quatre-vingt-dix-sept",
+      "response": "cinq cent trente-quatre",
+      "predicted_larger": 534,
+      "actual_larger": 534,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 82,
+      "num_b": 63,
+      "french_a": "quatre-vingt-deux",
+      "french_b": "soixante-trois",
+      "response": "quatre-vingt-deux",
+      "predicted_larger": 82,
+      "actual_larger": 82,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_80s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 851,
+      "num_b": 929,
+      "french_a": "huit cent cinquante et un",
+      "french_b": "neuf cent vingt-neuf",
+      "response": "neuf cent vingt-neuf",
+      "predicted_larger": 929,
+      "actual_larger": 929,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 77,
+      "num_b": 30,
+      "french_a": "soixante-dix-sept",
+      "french_b": "trente",
+      "response": "soixante-dix-sept",
+      "predicted_larger": 77,
+      "actual_larger": 77,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 431,
+      "num_b": 399,
+      "french_a": "quatre cent trente et un",
+      "french_b": "trois cent quatre-vingt-dix-neuf",
+      "response": "quatre cent trente et un",
+      "predicted_larger": 431,
+      "actual_larger": 431,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 137,
+      "num_b": 821,
+      "french_a": "cent trente-sept",
+      "french_b": "huit cent vingt et un",
+      "response": "huit cent vingt et un",
+      "predicted_larger": 821,
+      "actual_larger": 821,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 23,
+      "num_b": 78,
+      "french_a": "vingt-trois",
+      "french_b": "soixante-dix-huit",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_70s"
+    },
+    {
+      "num_a": 927,
+      "num_b": 789,
+      "french_a": "neuf cent vingt-sept",
+      "french_b": "sept cent quatre-vingt-neuf",
+      "response": "neuf cent vingt-sept",
+      "predicted_larger": 927,
+      "actual_larger": 927,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 78,
+      "num_b": 24,
+      "french_a": "soixante-dix-huit",
+      "french_b": "vingt-quatre",
+      "response": "soixante-dix-huit",
+      "predicted_larger": 78,
+      "actual_larger": 78,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "vigesimal_70s",
+      "category_b": "decimal_tens"
+    },
+    {
+      "num_a": 642,
+      "num_b": 245,
+      "french_a": "six cent quarante-deux",
+      "french_b": "deux cent quarante-cinq",
+      "response": "six cent quarante-deux",
+      "predicted_larger": 642,
+      "actual_larger": 642,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 47,
+      "num_b": 92,
+      "french_a": "quarante-sept",
+      "french_b": "quatre-vingt-douze",
+      "response": "quatre-vingt-douze",
+      "predicted_larger": 92,
+      "actual_larger": 92,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_90s"
+    },
+    {
+      "num_a": 610,
+      "num_b": 325,
+      "french_a": "six cent dix",
+      "french_b": "trois cent vingt-cinq",
+      "response": "six cent dix",
+      "predicted_larger": 610,
+      "actual_larger": 610,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 410,
+      "num_b": 250,
+      "french_a": "quatre cent dix",
+      "french_b": "deux cent cinquante",
+      "response": "quatre cent dix",
+      "predicted_larger": 410,
+      "actual_larger": 410,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 125,
+      "num_b": 468,
+      "french_a": "cent vingt-cinq",
+      "french_b": "quatre cent soixante-huit",
+      "response": "quatre cent soixante-huit",
+      "predicted_larger": 468,
+      "actual_larger": 468,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 37,
+      "num_b": 83,
+      "french_a": "trente-sept",
+      "french_b": "quatre-vingt-trois",
+      "response": "quatre-vingt-trois",
+      "predicted_larger": 83,
+      "actual_larger": 83,
+      "correct": true,
+      "pair_type": "mixed",
+      "category_a": "decimal_tens",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 766,
+      "num_b": 753,
+      "french_a": "sept cent soixante-six",
+      "french_b": "sept cent cinquante-trois",
+      "response": "sept cent soixante-six",
+      "predicted_larger": 766,
+      "actual_larger": 766,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 919,
+      "num_b": 163,
+      "french_a": "neuf cent dix-neuf",
+      "french_b": "cent soixante-trois",
+      "response": "neuf cent dix-neuf",
+      "predicted_larger": 919,
+      "actual_larger": 919,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 79,
+      "num_b": 86,
+      "french_a": "soixante-dix-neuf",
+      "french_b": "quatre-vingt-six",
+      "response": "quatre-vingt-six",
+      "predicted_larger": 86,
+      "actual_larger": 86,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_70s",
+      "category_b": "vigesimal_80s"
+    },
+    {
+      "num_a": 560,
+      "num_b": 820,
+      "french_a": "cinq cent soixante",
+      "french_b": "huit cent vingt",
+      "response": "huit cent vingt",
+      "predicted_larger": 820,
+      "actual_larger": 820,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 328,
+      "num_b": 915,
+      "french_a": "trois cent vingt-huit",
+      "french_b": "neuf cent quinze",
+      "response": "neuf cent quinze",
+      "predicted_larger": 915,
+      "actual_larger": 915,
+      "correct": true,
+      "pair_type": "both_decimal",
+      "category_a": "hundreds",
+      "category_b": "hundreds"
+    },
+    {
+      "num_a": 88,
+      "num_b": 79,
+      "french_a": "quatre-vingt-huit",
+      "french_b": "soixante-dix-neuf",
+      "response": "quatre-vingt-huit",
+      "predicted_larger": 88,
+      "actual_larger": 88,
+      "correct": true,
+      "pair_type": "both_vigesimal",
+      "category_a": "vigesimal_80s",
+      "category_b": "vigesimal_70s"
+    }
+  ],
+  "counting": [
+    {
+      "start": 0,
+      "given": "zéro, un, deux, trois, quatre",
+      "expected": [
+        "cinq",
+        "six",
+        "sept",
+        "huit",
+        "neuf"
+      ],
+      "response": "cinq, six, sept, huit, neuf",
+      "predicted_words": [
+        "cinq",
+        "six",
+        "sept",
+        "huit",
+        "neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 5,
+      "given": "cinq, six, sept, huit, neuf",
+      "expected": [
+        "dix",
+        "onze",
+        "douze",
+        "treize",
+        "quatorze"
+      ],
+      "response": "dix, onze, douze, treize, quatorze",
+      "predicted_words": [
+        "dix",
+        "onze",
+        "douze",
+        "treize",
+        "quatorze"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 10,
+      "given": "dix, onze, douze, treize, quatorze",
+      "expected": [
+        "quinze",
+        "seize",
+        "dix-sept",
+        "dix-huit",
+        "dix-neuf"
+      ],
+      "response": "quinze, seize, dix-sept, dix-huit, dix-neuf",
+      "predicted_words": [
+        "quinze",
+        "seize",
+        "dix-sept",
+        "dix-huit",
+        "dix-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 15,
+      "given": "quinze, seize, dix-sept, dix-huit, dix-neuf",
+      "expected": [
+        "vingt",
+        "vingt et un",
+        "vingt-deux",
+        "vingt-trois",
+        "vingt-quatre"
+      ],
+      "response": "vingt, vingt et un, vingt-deux, vingt-trois, vingt-quatre",
+      "predicted_words": [
+        "vingt",
+        "vingt et un",
+        "vingt-deux",
+        "vingt-trois",
+        "vingt-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 20,
+      "given": "vingt, vingt et un, vingt-deux, vingt-trois, vingt-quatre",
+      "expected": [
+        "vingt-cinq",
+        "vingt-six",
+        "vingt-sept",
+        "vingt-huit",
+        "vingt-neuf"
+      ],
+      "response": "vingt-cinq, vingt-six, vingt-sept, vingt-huit, vingt-neuf",
+      "predicted_words": [
+        "vingt-cinq",
+        "vingt-six",
+        "vingt-sept",
+        "vingt-huit",
+        "vingt-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 25,
+      "given": "vingt-cinq, vingt-six, vingt-sept, vingt-huit, vingt-neuf",
+      "expected": [
+        "trente",
+        "trente et un",
+        "trente-deux",
+        "trente-trois",
+        "trente-quatre"
+      ],
+      "response": "trente, trente et un, trente-deux, trente-trois, trente-quatre",
+      "predicted_words": [
+        "trente",
+        "trente et un",
+        "trente-deux",
+        "trente-trois",
+        "trente-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 30,
+      "given": "trente, trente et un, trente-deux, trente-trois, trente-quatre",
+      "expected": [
+        "trente-cinq",
+        "trente-six",
+        "trente-sept",
+        "trente-huit",
+        "trente-neuf"
+      ],
+      "response": "trente-cinq, trente-six, trente-sept, trente-huit, trente-neuf",
+      "predicted_words": [
+        "trente-cinq",
+        "trente-six",
+        "trente-sept",
+        "trente-huit",
+        "trente-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 35,
+      "given": "trente-cinq, trente-six, trente-sept, trente-huit, trente-neuf",
+      "expected": [
+        "quarante",
+        "quarante et un",
+        "quarante-deux",
+        "quarante-trois",
+        "quarante-quatre"
+      ],
+      "response": "quarante, quarante et un, quarante-deux, quarante-trois, quarante-quatre",
+      "predicted_words": [
+        "quarante",
+        "quarante et un",
+        "quarante-deux",
+        "quarante-trois",
+        "quarante-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 40,
+      "given": "quarante, quarante et un, quarante-deux, quarante-trois, quarante-quatre",
+      "expected": [
+        "quarante-cinq",
+        "quarante-six",
+        "quarante-sept",
+        "quarante-huit",
+        "quarante-neuf"
+      ],
+      "response": "quarante-cinq, quarante-six, quarante-sept, quarante-huit, quarante-neuf",
+      "predicted_words": [
+        "quarante-cinq",
+        "quarante-six",
+        "quarante-sept",
+        "quarante-huit",
+        "quarante-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 45,
+      "given": "quarante-cinq, quarante-six, quarante-sept, quarante-huit, quarante-neuf",
+      "expected": [
+        "cinquante",
+        "cinquante et un",
+        "cinquante-deux",
+        "cinquante-trois",
+        "cinquante-quatre"
+      ],
+      "response": "cinquante, cinquante et un, cinquante-deux, cinquante-trois, cinquante-quatre",
+      "predicted_words": [
+        "cinquante",
+        "cinquante et un",
+        "cinquante-deux",
+        "cinquante-trois",
+        "cinquante-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 50,
+      "given": "cinquante, cinquante et un, cinquante-deux, cinquante-trois, cinquante-quatre",
+      "expected": [
+        "cinquante-cinq",
+        "cinquante-six",
+        "cinquante-sept",
+        "cinquante-huit",
+        "cinquante-neuf"
+      ],
+      "response": "cinquante-cinq, cinquante-six, cinquante-sept, cinquante-huit, cinquante-neuf",
+      "predicted_words": [
+        "cinquante-cinq",
+        "cinquante-six",
+        "cinquante-sept",
+        "cinquante-huit",
+        "cinquante-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 55,
+      "given": "cinquante-cinq, cinquante-six, cinquante-sept, cinquante-huit, cinquante-neuf",
+      "expected": [
+        "soixante",
+        "soixante et un",
+        "soixante-deux",
+        "soixante-trois",
+        "soixante-quatre"
+      ],
+      "response": "soixante, soixante et un, soixante-deux, soixante-trois, soixante-quatre",
+      "predicted_words": [
+        "soixante",
+        "soixante et un",
+        "soixante-deux",
+        "soixante-trois",
+        "soixante-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 60,
+      "given": "soixante, soixante et un, soixante-deux, soixante-trois, soixante-quatre",
+      "expected": [
+        "soixante-cinq",
+        "soixante-six",
+        "soixante-sept",
+        "soixante-huit",
+        "soixante-neuf"
+      ],
+      "response": "soixante-cinq, soixante-six, soixante-sept, soixante-huit, soixante-neuf",
+      "predicted_words": [
+        "soixante-cinq",
+        "soixante-six",
+        "soixante-sept",
+        "soixante-huit",
+        "soixante-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": false
+    },
+    {
+      "start": 65,
+      "given": "soixante-cinq, soixante-six, soixante-sept, soixante-huit, soixante-neuf",
+      "expected": [
+        "soixante-dix",
+        "soixante et onze",
+        "soixante-douze",
+        "soixante-treize",
+        "soixante-quatorze"
+      ],
+      "response": "soixante-dix, soixante et onze, soixante-douze, soixante-treize, soixante-quatorze",
+      "predicted_words": [
+        "soixante-dix",
+        "soixante et onze",
+        "soixante-douze",
+        "soixante-treize",
+        "soixante-quatorze"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 70,
+      "given": "soixante-dix, soixante et onze, soixante-douze, soixante-treize, soixante-quatorze",
+      "expected": [
+        "soixante-quinze",
+        "soixante-seize",
+        "soixante-dix-sept",
+        "soixante-dix-huit",
+        "soixante-dix-neuf"
+      ],
+      "response": "soixante-quinze, soixante-seize, soixante-dix-sept, soixante-dix-huit, soixante-dix-neuf",
+      "predicted_words": [
+        "soixante-quinze",
+        "soixante-seize",
+        "soixante-dix-sept",
+        "soixante-dix-huit",
+        "soixante-dix-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 75,
+      "given": "soixante-quinze, soixante-seize, soixante-dix-sept, soixante-dix-huit, soixante-dix-neuf",
+      "expected": [
+        "quatre-vingts",
+        "quatre-vingt-un",
+        "quatre-vingt-deux",
+        "quatre-vingt-trois",
+        "quatre-vingt-quatre"
+      ],
+      "response": "quatre-vingts, quatre-vingt-un, quatre-vingt-deux, quatre-vingt-trois, quatre-vingt-quatre",
+      "predicted_words": [
+        "quatre-vingts",
+        "quatre-vingt-un",
+        "quatre-vingt-deux",
+        "quatre-vingt-trois",
+        "quatre-vingt-quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 80,
+      "given": "quatre-vingts, quatre-vingt-un, quatre-vingt-deux, quatre-vingt-trois, quatre-vingt-quatre",
+      "expected": [
+        "quatre-vingt-cinq",
+        "quatre-vingt-six",
+        "quatre-vingt-sept",
+        "quatre-vingt-huit",
+        "quatre-vingt-neuf"
+      ],
+      "response": "quatre-vingt-cinq, quatre-vingt-six, quatre-vingt-sept, quatre-vingt-huit, quatre-vingt-neuf",
+      "predicted_words": [
+        "quatre-vingt-cinq",
+        "quatre-vingt-six",
+        "quatre-vingt-sept",
+        "quatre-vingt-huit",
+        "quatre-vingt-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 85,
+      "given": "quatre-vingt-cinq, quatre-vingt-six, quatre-vingt-sept, quatre-vingt-huit, quatre-vingt-neuf",
+      "expected": [
+        "quatre-vingt-dix",
+        "quatre-vingt-onze",
+        "quatre-vingt-douze",
+        "quatre-vingt-treize",
+        "quatre-vingt-quatorze"
+      ],
+      "response": "quatre-vingt-dix, quatre-vingt-onze, quatre-vingt-douze, quatre-vingt-treize, quatre-vingt-quatorze",
+      "predicted_words": [
+        "quatre-vingt-dix",
+        "quatre-vingt-onze",
+        "quatre-vingt-douze",
+        "quatre-vingt-treize",
+        "quatre-vingt-quatorze"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 90,
+      "given": "quatre-vingt-dix, quatre-vingt-onze, quatre-vingt-douze, quatre-vingt-treize, quatre-vingt-quatorze",
+      "expected": [
+        "quatre-vingt-quinze",
+        "quatre-vingt-seize",
+        "quatre-vingt-dix-sept",
+        "quatre-vingt-dix-huit",
+        "quatre-vingt-dix-neuf"
+      ],
+      "response": "quatre-vingt-quinze, quatre-vingt-seize, quatre-vingt-dix-sept, quatre-vingt-dix-huit, quatre-vingt-dix-neuf",
+      "predicted_words": [
+        "quatre-vingt-quinze",
+        "quatre-vingt-seize",
+        "quatre-vingt-dix-sept",
+        "quatre-vingt-dix-huit",
+        "quatre-vingt-dix-neuf"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    },
+    {
+      "start": 95,
+      "given": "quatre-vingt-quinze, quatre-vingt-seize, quatre-vingt-dix-sept, quatre-vingt-dix-huit, quatre-vingt-dix-neuf",
+      "expected": [
+        "cent",
+        "cent un",
+        "cent deux",
+        "cent trois",
+        "cent quatre"
+      ],
+      "response": "cent, cent un, cent deux, cent trois, cent quatre",
+      "predicted_words": [
+        "cent",
+        "cent un",
+        "cent deux",
+        "cent trois",
+        "cent quatre"
+      ],
+      "correct_count": 5,
+      "total": 5,
+      "crosses_vigesimal": true
+    }
+  ],
+  "summary": {
+    "conversion_accuracy": 1.0,
+    "next_number_word_accuracy": 0.9789473684210527,
+    "next_number_digit_accuracy": 0.0,
+    "comparison_accuracy": 1.0,
+    "counting_accuracy": 1.0
+  }
+}
